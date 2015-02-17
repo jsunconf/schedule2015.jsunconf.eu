@@ -1,26 +1,55 @@
-title: My awesome conference
+title: JS Unconf 2015
 days:
   - name: Saturday
     slots:
-      - start: '12:00'
-        end: '13:00'
+      - start: '08:00'
+        end: '09:00'
 
         talks:
-          - speaker: Robin Drexler
-            title: How Geloet will save us all
+          - speaker:
+            title: Entry and Breakfast
+            location: Main Hall
+
+
+      - start: '10:00'
+        end: '10:45'
+
+        talks:
+          - speaker: "Christoph Burgdorf "
+            title: "The secrets of the git ninjas"
             location: H1
 
-          - speaker: Katrin Werner
-            title: Geloet is jsut not worth it
+          - speaker: Oliver Zeigermann
+            title: "Games from the 80ies in less than 100 lines of code"
             location: H2
 
-      - start: '12:00'
-        end: '13:00'
+          - speaker: "Elma Burke & Robin Böhm"
+            title: "Hoodie & AngularJS - The perfect couple for simple and fast Prototyping!"
+            location: H3
+
+          - speaker: "Jan Krutisch"
+            title: Decentralize ALL THE THINGS!!!!!
+            location: H4
+
+      - start: '11:00'
+        end: '11:45'
 
         talks:
-          - speaker: Peter
-            title: Wurst is good
+          - speaker: "Christoph Burgdorf "
+            title: "The secrets of the git ninjas"
             location: H1
+
+          - speaker: Oliver Zeigermann
+            title: "Games from the 80ies in less than 100 lines of code"
+            location: H2
+
+          - speaker: "Elma Burke & Robin Böhm"
+            title: "Hoodie & AngularJS - The perfect couple for simple and fast Prototyping!"
+            location: H3
+
+          - speaker: "Jan Krutisch"
+            title: Decentralize ALL THE THINGS!!!!!
+            location: H4
 
   - name: Sunday
     slots:
