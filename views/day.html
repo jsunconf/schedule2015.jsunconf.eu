@@ -1,0 +1,28 @@
+<header>
+  <h1>{{ title }}</h1>
+</header>
+
+
+{% include 'navigation'%}
+
+<h2>{{day.name}}</h2>
+
+{% for slot in day.slots %}
+<div class="slot-container">
+  <span class="slot-time-start">{{ slot.start }}</span> -
+  <span class="slot-time-end">{{ slot.end }}</span>
+
+  <div class="talks-container">
+    {% for talk in slot.talks %}
+    <div class="talk-container">
+      <div class="talk-title">{{ talk.title }}</div>
+      <div class="talk-footer">
+        <div class="talk-speaker">{{ talk.speaker }}</div>
+        <div class="talk-location"><a href="{{day.file_name}}_{{talk.location_file_name}}.html">{{ talk.location }}</a></div>
+        <div style="clear: both;"></div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
