@@ -3,53 +3,124 @@ days:
   - name: Saturday
     slots:
       - start: '08:00'
-        end: '09:00'
+        end: '10:00'
 
         talks:
           - speaker:
-            title: Entry and Breakfast
+            title: Registration and breakfast
             location: Main Hall
 
-
       - start: '10:00'
-        end: '10:45'
+        end: '12:00'
 
         talks:
-          - speaker: "Christoph Burgdorf "
-            title: "The secrets of the git ninjas"
-            location: H1
+          - speaker:
+            title: Welcome and votings
+            location: Main Hall
 
-          - speaker: Oliver Zeigermann
-            title: "Games from the 80ies in less than 100 lines of code"
-            location: H2
-
-          - speaker: "Elma Burke & Robin Böhm"
-            title: "Hoodie & AngularJS - The perfect couple for simple and fast Prototyping!"
-            location: H3
-
-          - speaker: "Jan Krutisch"
-            title: Decentralize ALL THE THINGS!!!!!
-            location: H4
-
-      - start: '11:00'
-        end: '11:45'
+      - start: '12:00'
+        end: '12:45'
 
         talks:
-          - speaker: "Christoph Burgdorf "
-            title: "The secrets of the git ninjas"
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
             location: H1
 
-          - speaker: Oliver Zeigermann
-            title: "Games from the 80ies in less than 100 lines of code"
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
             location: H2
 
-          - speaker: "Elma Burke & Robin Böhm"
-            title: "Hoodie & AngularJS - The perfect couple for simple and fast Prototyping!"
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
             location: H3
 
-          - speaker: "Jan Krutisch"
-            title: Decentralize ALL THE THINGS!!!!!
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
             location: H4
+
+      - start: '12:45'
+        end: '14:15'
+
+        talks:
+          - speaker:
+            title: Lunch
+            location: Main Hall
+
+      - start: '14:15'
+        end: '15:00'
+
+        talks:
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H1
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H2
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H3
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H4
+
+      - start: '15:30'
+        end: '16:15'
+
+        talks:
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H1
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H2
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H3
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H4
+
+      - start: '16:45'
+        end: '17:30'
+
+        talks:
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H1
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H2
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H3
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H4
+
+      - start: '17:30'
+        end: '17:45'
+
+        talks:
+          - speaker: ""
+            title: "Family photo"
+            location: Main Hall
+
+      - start: '19:00'
+        end: 'open end'
+
+        talks:
+          - speaker: ""
+            title: "Party @ <a href='https://www.google.com/maps/place/Good+Old+Days+Dance+Bar/@53.563525,9.959292,17z/data=!3m1!4b1!4m2!3m1!1s0x47b18f42d354b6e7:0x2409f6f2f52cd803'>Good Old Days Dance Bar</a>"
+            location: ""
 
   - name: Sunday
     slots:
