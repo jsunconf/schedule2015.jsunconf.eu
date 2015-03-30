@@ -122,12 +122,106 @@ days:
             title: "Party @ <a href='https://www.google.com/maps/place/Good+Old+Days+Dance+Bar/@53.563525,9.959292,17z/data=!3m1!4b1!4m2!3m1!1s0x47b18f42d354b6e7:0x2409f6f2f52cd803'>Good Old Days Dance Bar</a>"
             location: ""
 
+
   - name: Sunday
     slots:
-      - start: '15:00'
-        end: '16:00'
+      - start: '09:00'
+        end: '10:00'
 
         talks:
-          - speaker: Robin Drexler
-            title: How Geloet will save us all pt 2
+          - speaker:
+            title: "Breakfast"
+            location: Main Hall
+
+      - start: '10:00'
+        end: '11:30'
+
+        talks:
+          - speaker:
+            title: "Votings"
+            location: Main Hall
+
+      - start: '11:30'
+        end: '12:15'
+
+        talks:
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H1
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H2
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H3
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H4
+
+      - start: '12:30'
+        end: '13:15'
+
+        talks:
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H1
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H2
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H3
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H4
+
+
+      - start: '13:15'
+        end: '14:30'
+
+        talks:
+          - speaker:
+            title: "Lunch"
+            location: Main Hall
+
+      - start: '14:30'
+        end: '15:15'
+
+        talks:
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H1
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H2
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H3
+
+          - speaker: "Speaker TBD"
+            title: "Title TBD"
+            location: H4
+
+      - start: '15:45'
+        end: '16:30'
+
+        talks:
+          - speaker:
+            title: "Lightning talks"
+            location: H1
+
+      - start: '16:45'
+        end: '17:15'
+
+        talks:
+          - speaker: ""
+            title: "Closing session"
             location: H1
