@@ -1,0 +1,12 @@
+{
+  "short_name": "JS Unconf schedule 2015",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone"
+}
