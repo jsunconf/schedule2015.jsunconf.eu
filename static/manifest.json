@@ -8,5 +8,5 @@
     }
   ],
   "start_url": "/index.html",
-  "display": "browser"
+  "display": "minimal-ui"
 }
