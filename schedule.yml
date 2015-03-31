@@ -9,7 +9,12 @@ days:
 
         talks:
           - speaker:
-            title: "Warmup party @ <a href='https://www.google.de/maps/place/Laundrette/@53.551776,9.926705,17z/data=!3m1!4b1!4m2!3m1!1s0x47b1858541c9e3ad:0x4587af3a24012661'>Laundrette</a>"
+            title: >
+              Warmup party @ <a href='https://www.google.de/maps/place/Laundrette/@53.551776,9.926705,17z/data=!3m1!4b1!4m2!3m1!1s0x47b1858541c9e3ad:0x4587af3a24012661'>Laundrette</a>
+
+              <br>
+              <br>
+              Entry is free, please <a href='http://www.meetup.com/hamburg-js/events/218715261/'>RSVP at meetup.com</a>
             location: ""
 
   - name: Saturday
