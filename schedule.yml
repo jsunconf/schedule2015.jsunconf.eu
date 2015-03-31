@@ -2,7 +2,7 @@ title: JS Unconf 2015
 days:
   - name: Saturday
     slots:
-      - start: '08:00'
+      - start: '09:00'
         end: '10:00'
 
         talks:
