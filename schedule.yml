@@ -1,5 +1,17 @@
 title: JS Unconf 2015
 days:
+
+
+  - name: Friday (April 24)
+    slots:
+      - start: '20:00'
+        end: 'open end'
+
+        talks:
+          - speaker:
+            title: "Warmup party @ <a href='https://www.google.de/maps/place/Laundrette/@53.551776,9.926705,17z/data=!3m1!4b1!4m2!3m1!1s0x47b1858541c9e3ad:0x4587af3a24012661'>Laundrette</a>"
+            location: ""
+
   - name: Saturday
     slots:
       - start: '09:00'
