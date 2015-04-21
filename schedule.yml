@@ -33,7 +33,7 @@ days:
         talks:
           - speaker:
             title: Welcome and votings
-            location: Main Hall
+            location: array
 
       - start: '12:00'
         end: '12:45'
@@ -41,19 +41,19 @@ days:
         talks:
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: A
+            location: array
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: B
+            location: bind
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: C
+            location: console
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: D
+            location: document
 
       - start: '12:45'
         end: '14:15'
@@ -69,19 +69,19 @@ days:
         talks:
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: A
+            location: array
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: B
+            location: bind
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: C
+            location: console
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: D
+            location: document
 
       - start: '15:30'
         end: '16:15'
@@ -89,19 +89,19 @@ days:
         talks:
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: A
+            location: array
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: B
+            location: bind
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: C
+            location: console
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: D
+            location: document
 
       - start: '16:45'
         end: '17:30'
@@ -109,19 +109,19 @@ days:
         talks:
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: A
+            location: array
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: B
+            location: bind
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: C
+            location: console
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: D
+            location: document
 
       - start: '17:30'
         end: '17:45'
@@ -164,19 +164,19 @@ days:
         talks:
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: A
+            location: array
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: B
+            location: bind
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: C
+            location: console
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: D
+            location: document
 
       - start: '12:30'
         end: '13:15'
@@ -184,19 +184,19 @@ days:
         talks:
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: A
+            location: array
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: B
+            location: bind
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: C
+            location: console
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: D
+            location: document
 
 
       - start: '13:15'
@@ -213,19 +213,19 @@ days:
         talks:
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: A
+            location: array
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: B
+            location: bind
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: C
+            location: console
 
           - speaker: "Speaker TBD"
             title: "Title TBD"
-            location: D
+            location: document
 
       - start: '15:45'
         end: '16:30'
@@ -233,7 +233,7 @@ days:
         talks:
           - speaker:
             title: "Lightning talks"
-            location: A
+            location: array
 
       - start: '16:45'
         end: '17:15'
@@ -241,4 +241,4 @@ days:
         talks:
           - speaker: ""
             title: "Closing session"
-            location: A
+            location: array
