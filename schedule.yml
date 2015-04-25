@@ -119,7 +119,7 @@ days:
             title: "Service Worker"
             location: console
 
-          - speaker: "Martin Schuhfuss"
+          - speaker: "Björn  Kimminich"
             title: "Juice Shop - Hacking an intentionally insecure Javascript Web Application"
             location: document
 
