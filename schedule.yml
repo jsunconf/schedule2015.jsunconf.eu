@@ -39,20 +39,20 @@ days:
         end: '12:45'
 
         talks:
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Dave Brotherstone"
+            title: "Isomorphic Web apps with React"
             location: array
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "@rhosts"
+            title: "Non-blocking continuous delivery pipelines with Docker, Github, Jenkins, Node"
             location: bind
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Ola"
+            title: "Offline First - the new cool kid in town!"
             location: console
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Michael Bohn"
+            title: "famo.us - with flying, burning ponies"
             location: document
 
       - start: '12:45'
@@ -67,60 +67,60 @@ days:
         end: '15:00'
 
         talks:
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Frank / Thomas"
+            title: "Web components - what we have learned so far and why we need them"
             location: array
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Matthias Seemann / Jakob Westhoff"
+            title: "From Higher Order Functions to Transducers. (More functional programming)"
             location: bind
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Martin Reinhardt"
+            title: "Responsive testing with Galen"
             location: console
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Lewis Cowper"
+            title: "Forklift Driver to Developer in 9 Months"
             location: document
 
       - start: '15:30'
         end: '16:15'
 
         talks:
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Fabian Fabian"
+            title: "DIY UX For Dev Teams"
             location: array
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Gernot / Sebastian"
+            title: "From big to massive scalability in AngularJS apps"
             location: bind
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Martin Schuhfuss"
+            title: "Hardware Hacking"
             location: console
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Peter Müller"
+            title: "Precompiler Hell"
             location: document
 
       - start: '16:45'
         end: '17:30'
 
         talks:
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Jan Krutisch"
+            title: "Making noise with Web Audio and Web Midi"
             location: array
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Martin Kleppe"
+            title: "Creative Coding"
             location: bind
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Ola"
+            title: "Service Worker"
             location: console
 
-          - speaker: "Speaker TBD"
-            title: "Title TBD"
+          - speaker: "Martin Schuhfuss"
+            title: "Juice Shop - Hacking an intentionally insecure Javascript Web Application"
             location: document
 
       - start: '17:30'
