@@ -216,7 +216,7 @@ days:
             location: array
 
           - speaker: "Stefanie Grewenig / Johannes Thönes @jthoenes"
-            title: "OnConnectionLost: The life of an offline web application"
+            title: "OnConnectionLost: The life of an offline web application. + War stories about generating PDFs in the browser"
             location: bind
 
           - speaker: "Frank Mecklenburg @yfrobot"
